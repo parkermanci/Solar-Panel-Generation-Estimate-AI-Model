@@ -1,0 +1,1 @@
+# Solar-Panel-Generation-Estimate-AI-Model
